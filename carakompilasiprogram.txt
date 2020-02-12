@@ -1,0 +1,2 @@
+Cara Compile Program:
+gcc -o engis engis.c controller.c array.c matriks.c stack.c start.c startgame.c menu.c newgame.c interface.c inputCmd.c mesin_kar.c mesin_kata.c credit.c exit.c queue.c 
